@@ -27,7 +27,7 @@ st.write(
     "Franz Kafka."
 )
 
-st.markdown("¿Quieres escucharlo? Copia el texto.")
+st.markdown("¿Quieres escucharlo en acento japones? Copia el texto y selecciona Japones.")
 text = st.text_area("Ingrese el texto a escuchar.")
 
 tld = 'com'
